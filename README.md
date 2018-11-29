@@ -17,7 +17,7 @@ cd ..
 #### run python file using ipython kernel 
 ``` %run chatbot.py ```
 
-###Sample Chat
+### Sample Chat
 ```
    > hello?
    bot: hello .
