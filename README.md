@@ -7,7 +7,7 @@ To start, Download the data ZIP file
 `here <https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html>`
 and put in a ``data/`` directory under the current directory.
 
-## Create the a directory name it data
+## Preparation
 ```
 mkdir data
 wget http://www.cs.cornell.edu/~cristian/data/cornell_movie_dialogs_corpus.zip
